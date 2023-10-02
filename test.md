@@ -22,3 +22,14 @@ git checkout -b name - создание и переход на след.ветк
 363363
 6363
 363336
+git checkout -b name - создание и переход на след.ветку
+git checkout -b name - создание и переход на след.ветку
+git checkout -b name - создание и переход на след.ветку
+git checkout -b name - создание и переход на след.ветку
+git checkout -b name - создание и переход на след.ветку
+git checkout -b name - создание и переход на след.ветку
+git checkout -b name - создание и переход на след.ветку
+git checkout -b name - создание и переход на след.ветку
+git checkout -b name - создание и переход на след.ветку
+git checkout -b name - создание и переход на след.ветку
+git checkout -b name - создание и переход на след.ветку
