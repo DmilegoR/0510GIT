@@ -6,3 +6,5 @@
 ## "Изображение"
 ![alt text](https://i.pinimg.com/originals/e9/7f/52/e97f52c36a9cb1e2ff4f2f7e4d39dfd1.jpg)
 **git log - Лог изменений**
+
+git branch - показать все ветки
